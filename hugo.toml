@@ -7,3 +7,8 @@ theme = 'PaperMod'
     name = "Vocabulario"
     url = "/vocabulary/"
     weight = 10
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
