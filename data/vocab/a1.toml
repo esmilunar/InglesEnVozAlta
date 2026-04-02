@@ -1,0 +1,35 @@
+[[greetings]]
+  word = "Hello"
+  translation = "Hola"
+  phonetic = "jelou"
+  definition_es = "Hello es un saludo cordial"
+  explanation_en = "A greeting"
+  example_en = "Hello Maria"
+  example_es = "Hola Maria"
+
+[[greetings]]
+  word = "Good morning"
+  translation = "Buenos días"
+  phonetic = "gud morneng"
+  definition_es = "La manera en la que se saluda por la mañana"
+  explanation_en = "A greeting offered typically in the mornings"
+  example_en = "Good morning everyone"
+  example_es = "Buenos dias a todos"
+
+[[greetings]]
+  word = "Good afternoon"
+  translation = "Buenas tardes"
+  phonetic = "gud afternun"
+  definition_es = "La manera en la que se saluda por la tarde"
+  explanation_en = "A greeting offered typically in the afternoon"
+  example_en = "Good afternoon, welcome."
+  example_es = "Buenas tardes, bienvenido(a)"
+
+[[greetings]]
+  word = "How are you?"
+  translation = "¿Cómo estás?"
+  phonetic = "jao ar yu"
+  definition_es = "Pregunta que se hace para saber el estado de animo de alguien"
+  explanation_en = "A question made to know the current mood or status of someone"
+  example_en = "How are you today?"
+  example_es = "Como estas hoy?"
